@@ -14,7 +14,9 @@
                         </div>
                     @endif
 
-                    Bienvenido!
+                    Bienvenido! escoge una opcion: <br><br>
+
+                    <a href="{{route('campaign.index')}}"><button type="button" class="btn btn-primary">Campañas</button></a>
                 </div>
             </div>
         </div>
