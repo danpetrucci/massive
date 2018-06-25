@@ -81,7 +81,7 @@
                 <div class="title m-b-md">
                     Massive.
                 </div>
-                <h4>Campañas masivas de Email y SMS.</h4>
+                <h4>Campañas de Email Marketing</h4>
 
                 
             </div>
